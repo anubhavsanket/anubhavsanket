@@ -75,6 +75,6 @@ Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python*
 
 ---
 
-💡 *Open to Data Analyst, Machine Learning, and Business Intelligence internship opportunities!*
+💡 *Open to AI Engineer, Founding Engineer, Data Analyst, Machine Learning, and Business Intelligence internship opportunities!*
 
 ⭐️ **Fun Fact:** I love turning raw data into beautiful, actionable insights!
