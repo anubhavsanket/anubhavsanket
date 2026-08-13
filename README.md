@@ -3,7 +3,7 @@
 ##  About Me
 Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python**, and **Machine Learning**. Currently building intelligent solutions and competing in Kaggle competitions.
 
-- 🔭 Currently working on: **Auto Subtitle Generation** using OpenAI Whisper & WhisperX
+- 🔭 Currently working on: **Wayfarer** 
 - 🏆 Achievements: **Rank 158** (Top 3.5%) in Kaggle Hull Tactical Competition | **₹124.6M** Power BI Analytics Dashboard
 - 💼 Recent Internship: **Machine Learning / Power BI Intern** at Oaz Shakti (Nov 2025 - present)
 - 📊 Specialized in: Business Intelligence, Data Visualization, Machine Learning, NLP
