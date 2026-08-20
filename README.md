@@ -69,12 +69,6 @@ An offline video-automation platform that extracts high-value moments from long-
   <img src="https://streak-stats.demolab.com/?user=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="49%" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="49%" />
-</div>
-
 ---
 
 ### 🏆 Achievements
