@@ -10,7 +10,9 @@ Currently building **Wayfarer**, an AI-driven job search platform, and **LocalBr
 - 🧠 **Focus Areas:** Agentic AI, Multi-provider LLM Routing, Local Inference (Ollama), MLOps.
 - 🏆 **Achievements:** Rank 158/4,506 (Top 3.5%) in Kaggle Hull Tactical Competition.
 - 🌱 **Learning:** CUDA acceleration, WhisperX optimization, and advanced prompt engineering.
+- 🎯 **Looking For:** AI Engineer / Founding Engineer roles (Bengaluru | Remote)
 
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/anubhavsanket/anubhavsanket/raw/main/Anubhav_Sanket_Resume.pdf)
 ---
 
 ### 🛠️ Tech Stack
@@ -62,6 +64,11 @@ An offline video-automation platform that extracts high-value moments from long-
 ---
 
 ### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsanket&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsanket&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anubhavsanket&theme=radical" alt="GitHub Profile Summary"/>
