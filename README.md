@@ -1,6 +1,6 @@
 # Hi there, I'm Anubhav Sanket 👋
 
-## 🚀 AI/ML Engineer | Building Privacy-First AI Products
+## AI/ML Engineer | Building Privacy-First AI Products
 
 I'm an engineer focused on **Applied AI**, **Local LLMs**, and **Agentic RAG systems**. I enjoy building production-oriented applications that run efficiently on consumer hardware without compromising on privacy.
 
@@ -12,7 +12,7 @@ Currently building **Wayfarer**, an AI-driven job search platform, and **LocalBr
 - 🌱 **Learning:** CUDA acceleration, WhisperX optimization, and advanced prompt engineering.
 - 🎯 **Looking For:** AI Engineer / Founding Engineer roles (Bengaluru | Remote)
 
-[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/anubhavsanket/anubhavsanket/raw/main/Anubhav_Sanket_Resume.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/anubhavsanket/portfolio/blob/578ebf5dd58d960687f19967ca216b85917a3bce/assets/resume.pdf)
 ---
 
 ### 🛠️ Tech Stack
@@ -63,19 +63,11 @@ An offline video-automation platform that extracts high-value moments from long-
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anubhavsanket&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anubhavsanket&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="49%" />
 </div>
 
 
