@@ -65,10 +65,21 @@ An offline video-automation platform that extracts high-value moments from long-
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsanket&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsanket&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anubhavsanket&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anubhavsanket&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+</div>
+
+
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anubhavsanket&theme=radical" alt="GitHub Profile Summary"/>
