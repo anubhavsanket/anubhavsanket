@@ -12,7 +12,7 @@ Currently building **Wayfarer**, an AI-driven job search platform, and **LocalBr
 - 🌱 **Learning:** CUDA acceleration, WhisperX optimization, and advanced prompt engineering.
 - 🎯 **Looking For:** AI Engineer / Founding Engineer roles (Bengaluru | Remote)
 
-[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/anubhavsanket/portfolio/blob/578ebf5dd58d960687f19967ca216b85917a3bce/assets/resume.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/anubhavsanket/portfolio/blob/578ebf5dd58d960687f19967ca216b85917a3bce/assets/resume.pdf)
 ---
 
 ### 🛠️ Tech Stack
@@ -69,6 +69,7 @@ An offline video-automation platform that extracts high-value moments from long-
   <img src="https://streak-stats.demolab.com/?user=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavsanket&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="49%" />
 </div>
+
 ---
 
 ### 🏆 Achievements
