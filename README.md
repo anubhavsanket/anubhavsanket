@@ -9,7 +9,7 @@ Currently building **Wayfarer**, an AI-driven job search platform, and **LocalBr
 - 🔭 **Building:** Full-stack AI platforms (LangGraph, ChromaDB, FastAPI, React/TypeScript).
 - 🧠 **Focus Areas:** Agentic AI, Multi-provider LLM Routing, Local Inference (Ollama), MLOps.
 - 🏆 **Achievements:** Rank 158/4,506 (Top 3.5%) in Kaggle Hull Tactical Competition.
-- 🌱 **Learning:** CUDA acceleration, WhisperX optimization, and advanced prompt engineering.
+- 🌱 **Learning:** CUDA acceleration, Multi-agent orchestration, evaluation frameworks, on-device model optimization, and advanced prompt engineering.
 - 🎯 **Looking For:** AI Engineer / Founding Engineer roles (Bengaluru | Remote)
 
 [![Resume](https://img.shields.io/badge/-Resume-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/anubhavsanket/portfolio/blob/578ebf5dd58d960687f19967ca216b85917a3bce/assets/resume.pdf)
