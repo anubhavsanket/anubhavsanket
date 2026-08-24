@@ -61,6 +61,12 @@ An offline video-automation platform that extracts high-value moments from long-
 - **Stack:** Ollama, Gemma 3, WhisperX, PyQt6, FFmpeg, CUDA.
 - [View Project](https://github.com/anubhavsanket/viral-clipper)
 
+#### 4. Hull Tactical: Kaggle Competition (Top 3.5%)
+Quantitative asset-allocation solution for the Hull Tactical Market Prediction challenge using Powell optimization and Sharpe-ratio maximization.
+- **Key Features:** Modified Sharpe-ratio maximization with volatility penalties, leverage bounds, and risk constraints. Rank 158/4,506 globally.
+- **Stack:** Python, NumPy, Powell optimization, Jupyter Notebook.
+- [View Notebook](https://github.com/anubhavsanket/Hull-Tactical-Kaggle-Competition)
+
 ---
 
 ### 📊 GitHub Stats & Activity
